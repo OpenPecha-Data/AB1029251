@@ -1,0 +1,22 @@
+segment_sources:
+  P70048AD7:
+    type: origin_type
+    relation: translation
+    language: en
+  P6434F7EC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f38141b27c544a389ff40fd8484ed7f4:
+    P70048AD7: 6f12d13d22784b4f94995697f742491c
+    P6434F7EC: f8efbc3c192443789bb0eadcabbf5a3f
+  e146f0c022024e778b807a194805fe92:
+    P70048AD7: d88f95c43f114822be63654ce3c970a8
+    P6434F7EC: 0d0220514e5340aaa06ed3521a7c6ec1
+  9c9ed021a7914a4090d395d0b1cd9eb6:
+    P70048AD7: 07ed619490c947479b617579fb780a47
+    P6434F7EC: 6079826f75e0437d9d436a5fbc4ff008
+  aaca8d0b0e5e4d6ab4ca85014dabb244:
+    P70048AD7: 38d30a9374ba45d9ae9c0c6293ffe034
+    P6434F7EC: 0a0e35d2e61b4c9fbd6129788e185c83
